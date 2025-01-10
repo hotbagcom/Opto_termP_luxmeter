@@ -13,24 +13,24 @@ Third misson was displaying the result . Both group desided to use LED to show d
 The design we used transistor , we display taking adventage of voltage difference by using diode and so that first group could use same colour LED . 
 
 
-<img src="images/circuit1_shematic.png" alt="Group 1 circuit design (ampere)" width="400" height="200">
+<img src="images/circuit1_shematic.png" alt="Circuit 1 design (ampere)" width="400" height="200">
 
 On the other side second group , the one use op-amp on it's design  , used voltage breking point of different colour LED . In this design you can not use same colour LED more than one . 
 
 
-<img src="images/circuit2_shematic.png" alt="Group 2 circuit design (ampere)" width="400" height="200">
+<img src="images/circuit2_shematic.png" alt="Circuit 2 design (ampere)" width="400" height="200">
 
 Finnaly we compare our similation result . Winer was second group because . It's current output was more sharper and easly limit voltage/current so can prevent LED from burn out.
 
 
 Group 1 similation result (ampere) bellow 
 
-<img src="images/circuit1_current_comperison.png" alt="Group 1 similation result (ampere)" width="400" height="200">
+<img src="images/circuit1_current_comperison.png" alt="Circuit 1 similation result (ampere)" width="400" height="200">
 
 
 Group 2 similation result (ampere) bellow 
 
-<img src="images/circuit2_current_comperison.png" alt="Group 2 similation result (ampere)" width="400" height="200">
+<img src="images/circuit2_current_comperison.png" alt="Circuit 2 similation result (ampere)" width="400" height="200">
 
 
 

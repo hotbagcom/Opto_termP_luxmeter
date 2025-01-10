@@ -23,19 +23,22 @@ On the other side second group , the one use op-amp on it's design  , used volta
 Finnaly we compare our similation result . Winer was second group because . It's current output was more sharper and easly limit voltage/current so can prevent LED from burn out.
 
 
-Group 1 similation result (ampere) bellow 
+Circuit 1 similation result (ampere) bellow 
 
 <img src="images/circuit1_current_comperison.png" alt="Circuit 1 similation result (ampere)" width="400" height="200">
 
 
-Group 2 similation result (ampere) bellow 
+Circuit 2 similation result (ampere) bellow 
 
 <img src="images/circuit2_current_comperison.png" alt="Circuit 2 similation result (ampere)" width="400" height="200">
 
 
+You can find Ltspice similation file on ltspice_sources .
+
+
 
 ## Usage
-We can use this device for limiting the intensity of light . 
+We can use this device for measuring the of light . 
 
 ## Contributing                                                                                                                                                                     
 
